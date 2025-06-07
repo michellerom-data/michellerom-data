@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Michelle
 
-I'm a data engineer who loves making messy systems manageable—building cloud-based pipelines, modernizing legacy workflows, and writing documentation that actually helps people.
+I use data engineering to support mission-driven teams—especially in education, nonprofits, and tech for good. I love making messy systems manageable—building cloud-based pipelines, modernizing legacy workflows, and writing documentation that actually helps people.
 
 With a background in nonprofit data analytics, I stay grounded in clarity, usability, and impact. I’ve worked end-to-end across the data lifecycle—from collection and transformation to analysis and communication. 
 
